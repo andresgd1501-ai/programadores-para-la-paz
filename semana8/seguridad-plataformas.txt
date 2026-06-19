@@ -1,0 +1,5 @@
+1. No exponer datos personales de los miembros de la comunidad en pantallas públicas.
+2. Proteger credenciales y contraseñas mediante sistemas de cifrado y hashes seguros.
+3. Usar conexiones seguras HTTPS para encriptar el tráfico de información.
+4. Registrar los accesos y mantener un historial (logs) para detectar ingresos sospechosos.
+5. Limitar el acceso a información sensible solo a los administradores autorizados.

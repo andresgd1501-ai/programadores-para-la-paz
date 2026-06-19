@@ -1,0 +1,6 @@
+¿Qué información muestra cada comando?:
+- 'uname -a': Muestra la información detallada del sistema operativo, el nombre del host, la versión del núcleo (kernel) y la arquitectura de la máquina.
+- 'whoami': Muestra el nombre exacto del usuario actual que inició sesión y está ejecutando los comandos en la terminal.
+
+¿Por qué es útil conocer esta información?:
+Es fundamental al administrar un servidor porque permite comprobar qué versión exacta del sistema operativo está corriendo para saber si es compatible con ciertos programas, verificar si necesita actualizaciones críticas de seguridad, y auditar con qué cuenta de usuario y nivel de permisos se están ejecutando los servicios o bases de datos.
