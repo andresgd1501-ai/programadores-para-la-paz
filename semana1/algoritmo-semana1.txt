@@ -1,0 +1,9 @@
+Algoritmo para verificar y compartir información confiable en internet
+
+1. Recibir o encontrar la información (noticia, publicación o artículo) en entornos digitales.
+2. Identificar el autor o el medio de comunicación que emite la información para evaluar su reputación.
+3. Buscar la fecha de publicación original para constatar que el contenido sea actual y no esté fuera de contexto.
+4. Rastrear los enlaces, fuentes primarias o estudios citados que respaldan los datos entregados.
+5. Contrastar el contenido buscando la misma noticia en al menos dos medios de comunicación independientes y serios.
+6. Evaluar de forma crítica si el titular es exagerado o apela puramente a las emociones antes que a los hechos.
+7. Compartir la información con la red de contactos únicamente si se validaron positivamente todos los pasos anteriores.

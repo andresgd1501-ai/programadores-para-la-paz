@@ -1,0 +1,9 @@
+Existe una relación directa entre la responsabilidad al informar y la ciudadanía digital activa.
+Cuando decidimos verificar los datos antes de compartirlos, protegemos a la comunidad de la
+desinformación, lo que fortalece la participación ciudadana consciente y democrática en entornos
+virtuales. Por otro lado, el trabajo técnico ordenado mediante herramientas como Git y GitHub actúa
+como un pilar de esta responsabilidad. Así como un algoritmo requiere pasos lógicos para no fallar,
+el uso de control de versiones asegura que el conocimiento y los proyectos comunitarios se
+construyan de forma transparente, trazable y colaborativa. En conclusión, la ética en el manejo
+de la información digital se complementa con la disciplina técnica, permitiéndonos construir un
+entorno web más confiable, organizado y seguro para el beneficio de toda la sociedad.
