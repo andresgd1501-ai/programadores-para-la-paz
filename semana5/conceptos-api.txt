@@ -1,0 +1,5 @@
+¿Qué hace esta ruta?:
+Esta ruta utiliza el método HTTP POST en el endpoint '/reporte' para recibir datos en formato JSON enviados por el usuario a través del cuerpo de la solicitud (req.body) y responde con una confirmación estructurada del estado.
+
+¿Para qué podría servir en una aplicación comunitaria?:
+Podría servir para que los ciudadanos envíen reportes en tiempo real, tales como daños en la infraestructura pública, cortes de servicios, solicitudes de ayuda vecinal, o alertas de seguridad colectiva, centralizando la información para procesarla adecuadamente.
