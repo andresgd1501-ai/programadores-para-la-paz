@@ -1,0 +1,9 @@
+Dominar el uso de la terminal es fundamental para cualquier desarrollador de software profesional.
+Esta interfaz no solo permite navegar y organizar archivos de manera mucho más rápida que el entorno
+gráfico, sino que también brinda un control total y directo sobre los recursos del sistema operativo.
+Al trabajar en proyectos reales, gran parte de las herramientas esenciales, como los gestores de
+paquetes o el mismo Git, se ejecutan exclusivamente a través de líneas de comando. Academicamente,
+aprender estos comandos sienta las bases necesarias para entender la automatización de procesos.
+Mantener una estructura de archivos limpia y ordenada desde la consola evita pérdidas accidentales
+de código, optimiza el flujo diario de trabajo en equipo y refleja una alta disciplina técnica, lo
+cual es clave para construir proyectos escalables, transparentes y exitosos en el futuro.
