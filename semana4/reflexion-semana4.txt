@@ -1,0 +1,9 @@
+El uso de tecnologías abiertas como Node.js permite que las comunidades e iniciativas ciudadanas
+construyan herramientas digitales adaptadas a sus verdaderas necesidades. Al no depender de grandes
+corporaciones ni de licencias costosas, los procesos sociales ganan autonomía, soberanía técnica
+y sostenibilidad a largo plazo. Desarrollar plataformas propias fomenta la democratización del
+conocimiento, permitiendo que cualquier persona examine, audite y mejore el código de forma abierta.
+Esto garantiza la transparencia en el manejo de los datos comunitarios y protege la privacidad.
+En conclusión, el software libre se convierte en un motor de cambio social, empoderando a los
+ciudadanos para resolver problemas locales mediante la colaboración colectiva, transformando la
+tecnología en un bien público que fortalece la participación democrática y la equidad social.
