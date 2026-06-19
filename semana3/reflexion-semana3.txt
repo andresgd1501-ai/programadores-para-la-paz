@@ -1,0 +1,8 @@
+Llevar un registro de cambios con Git es fundamental porque garantiza la trazabilidad y seguridad en un proyecto.
+En el desarrollo de software, los errores son comunes y contar con un historial detallado permite revertir el
+código a una versión estable anterior si algo falla catastróficamente. Además, esta herramienta actúa como
+una bitácora transparente que documenta quién hizo cada modificación, cuándo se realizó y cuál era el objetivo.
+Esto facilita la colaboración masiva en equipos de trabajo, ya que evita que el código de un programador borre
+o interfiera con el de otro. Al mantener esta disciplina, los desarrolladores pueden experimentar con nuevas
+funciones sin temor a destruir el software existente, optimizando los tiempos de entrega y asegurando que la
+evolución del producto final sea completamente comprensible, ordenada y auditable para cualquier miembro.
